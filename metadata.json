@@ -1,0 +1,6 @@
+{
+  "name": "Coolify PostgreSQL Student Portal & Connection Tester",
+  "description": "Test and manage external PostgreSQL databases hosted on Coolify VPS with real-time connection diagnostics, schema migration, and a full Student Management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

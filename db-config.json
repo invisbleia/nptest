@@ -1,0 +1,5 @@
+{
+  "connectionString": "postgres://postgres:APXha330xzG2UdNrEvmxN4vy3GInAX8ZRbm4LjCOc26S1nHhE9Wu6W6cdTfWaNVT@38.87.117.68:5432/postgres?sslmode=disable",
+  "savedAt": "2026-10-11T13:21:00Z",
+  "autoConnect": true
+}
